@@ -6,7 +6,7 @@ name: Release to Ansible Galaxy
     branches:
       - master
   schedule:
-    - cron: "3 5/2 * *"
+    - cron: '19 10 * * *'
 
 defaults:
   run:
