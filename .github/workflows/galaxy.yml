@@ -41,6 +41,7 @@ jobs:
       matrix:
         os:
           - macos-10.15
+          - macos-latest
 
     steps:
       - name: Check out the codebase.
