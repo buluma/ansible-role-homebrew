@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Homebrew for macOS
+  homepage: https://buluma.github.io/
+  topics: development, system, packaging, homebrew, brew, cask, ansible, molecule, tox, playbook, hacktoberfest
