@@ -1,0 +1,9 @@
+digraph PhiloDilemma {
+  label = "Michael Buluma" ;
+  overlap=false
+  {
+    "homebrew" [fillcolor=yellow style=filled penwidth=3]
+    "elliotweiser.osx-command-line-tools" [fillcolor=green style=filled]
+  }
+  "homebrew" -> "elliotweiser.osx-command-line-tools"
+}
